@@ -9,5 +9,10 @@ And also a WebGL Port!
 - Unity Version is 2019.4.5
 - Project's Scripting backend is Mono
 
+## Credits
+- Mystman12 - Creator of Baldi's Basics
+- Internet Archive - Archive of Baldis basics 1.0
+- SillyMonkeyFlip - Decompile & WebGL Compile
+
 ## Media
 ![schoolhouse](ReadMeFiles/Schoolhouse.png)
