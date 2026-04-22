@@ -6,4 +6,4 @@ A decompile of Baldi's basics classic 1.0
 - Project's Scripting backend is Mono
 
 ## Media
-![schoolhouse](ReadMeFiles/SchoolHouse.png)
+![schoolhouse](../ReadMeFiles/Schoolhouse.png)
